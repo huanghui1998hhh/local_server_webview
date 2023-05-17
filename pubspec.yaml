@@ -14,7 +14,7 @@ dependencies:
   path: ^1.8.0
   http: ^0.13.4
   path_provider: ^2.0.9
-  dio: ^4.0.6
+  dio: ^5.1.0
   archive: ^3.3.0
   shared_preferences: ^2.0.13
   mime: ^1.0.1
